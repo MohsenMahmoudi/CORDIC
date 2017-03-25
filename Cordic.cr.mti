@@ -1,0 +1,22 @@
+{C:/Users/Administrator/Desktop/CORDIC Test/ControlModule.v} {1 {vlog -work work -nocovercells {C:/Users/Administrator/Desktop/CORDIC Test/ControlModule.v}
+Model Technology ModelSim ALTERA vlog 6.5e Compiler 2010.02 Feb 27 2010
+-- Compiling module Cordic_Ctrl
+
+Top level modules:
+	Cordic_Ctrl
+
+} {} {}} {C:/Users/Administrator/Desktop/CORDIC Test/MainModule.v} {1 {vlog -work work -nocovercells {C:/Users/Administrator/Desktop/CORDIC Test/MainModule.v}
+Model Technology ModelSim ALTERA vlog 6.5e Compiler 2010.02 Feb 27 2010
+-- Compiling module CORDIC_Main
+
+Top level modules:
+	CORDIC_Main
+
+} {} {}} {C:/Users/Administrator/Desktop/CORDIC Test/Test.v} {1 {vlog -work work -nocovercells {C:/Users/Administrator/Desktop/CORDIC Test/Test.v}
+Model Technology ModelSim ALTERA vlog 6.5e Compiler 2010.02 Feb 27 2010
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}
